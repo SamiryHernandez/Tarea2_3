@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tarea2_3</string>
+    <string name="imagen_tomada">Imagen tomada</string>
+    <string name="tomar_foto">Tomar Foto</string>
+    <string name="ingresar_descripcion">Ingresar una Descripción</string>
+    <string name="guardar">Guardar</string>
+    <string name="mostrar_imagenes">Mostrar Imagenes</string>
+    //P2
+    <string name="lista_de_imagenes_almacenadas">LISTA DE IMAGENES ALMACENADAS</string>
+    <string name="imagen_para_el_listview_item">Imagen para el listView Item</string>
+    <string name="atras">Atras</string>
+    <string name="texto_de_ejemplo">Texto de ejemplo</string>
+
+</resources>
